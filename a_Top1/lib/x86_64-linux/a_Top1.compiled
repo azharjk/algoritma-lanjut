@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1625802185"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/home/hansel/algoritma-lanjut/a_Top1/lib/x86_64-linux -Fu/home/hansel/algoritma-lanjut/a_Top1/ -FU/home/hansel/algoritma-lanjut/a_Top1/lib/x86_64-linux/ -FE/home/hansel/algoritma-lanjut/a_Top1/ -o/home/hansel/algoritma-lanjut/a_Top1/a_Top1 a_Top1.lpr"/>
+</CONFIG>
